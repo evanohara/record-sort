@@ -1,6 +1,6 @@
 using System;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage.ModelDescriptions
+namespace RecordSortAPI.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterAnnotation
     {

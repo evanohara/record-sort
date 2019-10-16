@@ -1,9 +1,9 @@
-[assembly: WebActivator.PostApplicationStartMethod(typeof(CraftJackRecordSortAPI.App_Start.SimpleInjectorWebApiInitializer), "Initialize")]
+[assembly: WebActivator.PostApplicationStartMethod(typeof(RecordSortAPI.App_Start.SimpleInjectorWebApiInitializer), "Initialize")]
 
-namespace CraftJackRecordSortAPI.App_Start
+namespace RecordSortAPI.App_Start
 {
     using System.Web.Http;
-    using CraftJackRecordSortShared.Data;
+    using RecordSortShared.Data;
     using SimpleInjector;
     using SimpleInjector.Integration.WebApi;
     using SimpleInjector.Lifestyles;

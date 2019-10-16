@@ -1,18 +1,18 @@
-﻿using CraftJackRecordSortShared.Dto;
-using CraftJackRecordSortShared.Models;
+﻿using RecordSortShared.Dto;
+using RecordSortShared.Models;
 using Moq;
 using NUnit.Framework;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using CraftJackRecordSortShared.Data;
-using CraftJackRecordSortAPI.Controllers;
+using RecordSortShared.Data;
+using RecordSortAPI.Controllers;
 using System.Web.Http;
 using System.Web.Http.Results;
 using System.Net.Http;
 using System.Web.Http.Routing;
 
-namespace CraftJackRecordSortAPI.Tests
+namespace RecordSortAPI.Tests
 {
     [TestFixture]
     public class RecordsControllerTests

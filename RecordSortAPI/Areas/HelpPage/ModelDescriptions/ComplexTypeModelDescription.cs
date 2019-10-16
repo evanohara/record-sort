@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage.ModelDescriptions
+namespace RecordSortAPI.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

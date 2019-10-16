@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using CraftJackRecordSortAPI.Areas.HelpPage.ModelDescriptions;
-using CraftJackRecordSortAPI.Areas.HelpPage.Models;
+using RecordSortAPI.Areas.HelpPage.ModelDescriptions;
+using RecordSortAPI.Areas.HelpPage.Models;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage
+namespace RecordSortAPI.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage
+namespace RecordSortAPI.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

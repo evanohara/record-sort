@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage.ModelDescriptions
+namespace RecordSortAPI.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage.ModelDescriptions
+namespace RecordSortAPI.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

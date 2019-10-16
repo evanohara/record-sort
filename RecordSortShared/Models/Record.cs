@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CraftJackRecordSortShared.Models
+namespace RecordSortShared.Models
 {
     public class Record
     {

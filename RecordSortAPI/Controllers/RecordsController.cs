@@ -1,9 +1,9 @@
-﻿using CraftJackRecordSortShared.Data;
-using CraftJackRecordSortShared.Dto;
+﻿using RecordSortShared.Data;
+using RecordSortShared.Dto;
 using System;
 using System.Web.Http;
 
-namespace CraftJackRecordSortAPI.Controllers
+namespace RecordSortAPI.Controllers
 {
     public class RecordsController : ApiController
     {

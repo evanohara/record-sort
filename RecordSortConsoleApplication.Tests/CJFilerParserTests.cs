@@ -1,4 +1,4 @@
-﻿using CraftJackRecordSortShared.Models;
+﻿using RecordSortShared.Models;
 using Newtonsoft.Json;
 using NUnit.Framework;
 using System;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CraftJackRecordSortConsoleApplication.Tests
+namespace RecordSortConsoleApplication.Tests
 {
     [TestFixture]
     class CJFilerParserTests

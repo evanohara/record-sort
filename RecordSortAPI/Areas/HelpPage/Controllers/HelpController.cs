@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using CraftJackRecordSortAPI.Areas.HelpPage.ModelDescriptions;
-using CraftJackRecordSortAPI.Areas.HelpPage.Models;
+using RecordSortAPI.Areas.HelpPage.ModelDescriptions;
+using RecordSortAPI.Areas.HelpPage.Models;
 
-namespace CraftJackRecordSortAPI.Areas.HelpPage.Controllers
+namespace RecordSortAPI.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.
